@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Yo soy el participante A de esta consigna
+=======
+Yo soy un colaborador del proyecto y me identifico como SG21
+>>>>>>> 35c992ca7cc52ead812090e4d6178fe10d779826
 
